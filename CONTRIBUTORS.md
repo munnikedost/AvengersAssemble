@@ -40,7 +40,7 @@
 #### Name: [AVISHEK SANTHALIYA](https://github.com/avisheksanvas)
 - Place: Allahabad, UP, India
 - Bio: The first avenger. :p 
-- GitHub: [avisheksanvas](https://github.com/avisheksanvas)
+- GitHub: [avisheksanvas](https[Master] (https://github.com/munnikedost)://github.com/avisheksanvas)
 
 #### Name: [Ankit Kumar Maurya](https://github.com/mauryaankitsh)
 - Place: Allahabad,UP,India
@@ -188,6 +188,11 @@
 - Place: Muzaffarnagar, UP, India
 - Bio: An enthusiast coder who loves gaming. 
 - GitHub: [Sparsh Mittal](https://github.com/Sparsh-Mittal)
+
+#### Name: [MASTER](https://github.com/munnikedost)
+- Place: Dhanbad,Jharkhand,India
+- Bio: Geek
+- GitHub: [munnikedost](https://github.com/munnikedost)
 
 #### Name: [SWATI JAIN](https://github.com/swati345)
 -Place: Ghaziabad,UP,India
