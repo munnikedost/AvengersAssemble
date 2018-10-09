@@ -1,8 +1,7 @@
-// A sampple c code can be written inside
 #include<stdio.h>
 int main(){
-
-
-	
-	return 0;
+   int a;
+   scanf("%d",&a);
+   printf("%d\n",a);
+   return 0;	
 }
