@@ -1,7 +1,6 @@
-#include<stdio.h>
+#include <bits/stdc++.h>
+using namespace std;
 int main(){
-   int a;
-   scanf("%d",&a);
-   printf("%d\n",a);
-   return 0;	
+	cout<<"Hi,I know this is not c but it is fun doing ;)";
+	return 0;
 }
