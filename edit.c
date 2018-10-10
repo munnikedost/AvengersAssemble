@@ -1,5 +1,5 @@
-// A sampple c code can be written inside
-#include<stdio.h>
+#include <bits/stdc++.h>
+using namespace std;
 int main(){
 
     printf("Arey ab to detached head me bhi kam krna aa gya");
